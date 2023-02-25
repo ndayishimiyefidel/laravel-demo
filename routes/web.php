@@ -37,4 +37,5 @@ Route::controller(testController::class)->group(function () {
     Route::get('/', 'Index')->name("myHome");
     Route::get('/about-me',  'About')->name("myAboutMe");
     Route::get('/contact-me', 'Contact')->name("myContactMe");
+    Route::get('/my-blog', 'blog')->name("blog-post");
 });
