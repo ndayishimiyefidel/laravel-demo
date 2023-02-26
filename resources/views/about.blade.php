@@ -12,8 +12,6 @@
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga at necessitatibus sit doloremque dolorem omnis id
     officiis amet tempore earum ullam soluta, perferendis numquam sint officia debitis ipsa nihil sapiente?</p>
 
-<a href="{{ route('myHome') }}">back to home</a>
-
 <body>
 
 </body>

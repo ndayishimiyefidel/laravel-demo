@@ -7,20 +7,25 @@ use Illuminate\Http\Request;
 
 class testController extends Controller
 {
-    function Index()
+    public function Index()
     {
         ///homepage
         return view('welcome');
     }
-    function About()
+    public function About()
     {
         //about page
 
         return view('about');
     }
-    function Contact()
+    public function Contact()
     {
         //contact page
         return view('contact');
+    }
+    public function Test()
+    {
+        //test page
+        return view('test');
     }
 }
