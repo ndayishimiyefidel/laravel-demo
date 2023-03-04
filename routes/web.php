@@ -45,8 +45,12 @@ Route::controller(testController::class)->group(function () {
 
 
 Route::get('/', function () {
-    return view('welcome');
-});
+    return view('main.index');
+})->name("main-home");
+Route::get('/about-page', function () {
+    return view('main.aboutme');
+})->name("aboutme.page");
+
 
 Route::get('/dashboard', function () {
     return view('admin.index');

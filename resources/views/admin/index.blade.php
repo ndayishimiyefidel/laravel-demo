@@ -29,8 +29,7 @@
                             <div class="flex-grow-1">
                                 <p class="text-truncate font-size-14 mb-2">Total Sales</p>
                                 <h4 class="mb-2">1452</h4>
-                                <p class="text-muted mb-0"><span class="text-success fw-bold font-size-12 me-2"><i
-                                            class="ri-arrow-right-up-line me-1 align-middle"></i>9.23%</span>from
+                                <p class="text-muted mb-0"><span class="text-success fw-bold font-size-12 me-2"><i class="ri-arrow-right-up-line me-1 align-middle"></i>9.23%</span>from
                                     previous period</p>
                             </div>
                             <div class="avatar-sm">
@@ -49,8 +48,7 @@
                             <div class="flex-grow-1">
                                 <p class="text-truncate font-size-14 mb-2">New Orders</p>
                                 <h4 class="mb-2">938</h4>
-                                <p class="text-muted mb-0"><span class="text-danger fw-bold font-size-12 me-2"><i
-                                            class="ri-arrow-right-down-line me-1 align-middle"></i>1.09%</span>from
+                                <p class="text-muted mb-0"><span class="text-danger fw-bold font-size-12 me-2"><i class="ri-arrow-right-down-line me-1 align-middle"></i>1.09%</span>from
                                     previous period</p>
                             </div>
                             <div class="avatar-sm">
@@ -69,8 +67,7 @@
                             <div class="flex-grow-1">
                                 <p class="text-truncate font-size-14 mb-2">New Users</p>
                                 <h4 class="mb-2">8246</h4>
-                                <p class="text-muted mb-0"><span class="text-success fw-bold font-size-12 me-2"><i
-                                            class="ri-arrow-right-up-line me-1 align-middle"></i>16.2%</span>from
+                                <p class="text-muted mb-0"><span class="text-success fw-bold font-size-12 me-2"><i class="ri-arrow-right-up-line me-1 align-middle"></i>16.2%</span>from
                                     previous period</p>
                             </div>
                             <div class="avatar-sm">
@@ -89,8 +86,7 @@
                             <div class="flex-grow-1">
                                 <p class="text-truncate font-size-14 mb-2">Unique Visitors</p>
                                 <h4 class="mb-2">29670</h4>
-                                <p class="text-muted mb-0"><span class="text-success fw-bold font-size-12 me-2"><i
-                                            class="ri-arrow-right-up-line me-1 align-middle"></i>11.7%</span>from
+                                <p class="text-muted mb-0"><span class="text-success fw-bold font-size-12 me-2"><i class="ri-arrow-right-up-line me-1 align-middle"></i>11.7%</span>from
                                     previous period</p>
                             </div>
                             <div class="avatar-sm">
@@ -109,8 +105,7 @@
                 <div class="card">
                     <div class="card-body">
                         <div class="dropdown float-end">
-                            <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown"
-                                aria-expanded="false">
+                            <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                 <i class="mdi mdi-dots-vertical"></i>
                             </a>
 
@@ -137,8 +132,7 @@
                                         </td>
                                         <td>Web Developer</td>
                                         <td>
-                                            <div class="font-size-13"><i
-                                                    class="ri-checkbox-blank-circle-fill font-size-10 text-success align-middle me-2"></i>Active
+                                            <div class="font-size-13"><i class="ri-checkbox-blank-circle-fill font-size-10 text-success align-middle me-2"></i>Active
                                             </div>
                                         </td>
                                         <td>
@@ -156,8 +150,7 @@
                                         </td>
                                         <td>Python Developer</td>
                                         <td>
-                                            <div class="font-size-13"><i
-                                                    class="ri-checkbox-blank-circle-fill font-size-10 text-warning align-middle me-2"></i>Deactive
+                                            <div class="font-size-13"><i class="ri-checkbox-blank-circle-fill font-size-10 text-warning align-middle me-2"></i>Deactive
                                             </div>
                                         </td>
                                         <td>
@@ -175,8 +168,7 @@
                                         </td>
                                         <td>Senior Javascript Developer</td>
                                         <td>
-                                            <div class="font-size-13"><i
-                                                    class="ri-checkbox-blank-circle-fill font-size-10 text-success align-middle me-2"></i>Active
+                                            <div class="font-size-13"><i class="ri-checkbox-blank-circle-fill font-size-10 text-success align-middle me-2"></i>Active
                                             </div>
                                         </td>
                                         <td>
@@ -194,8 +186,7 @@
                                         </td>
                                         <td>React Developer</td>
                                         <td>
-                                            <div class="font-size-13"><i
-                                                    class="ri-checkbox-blank-circle-fill font-size-10 text-success align-middle me-2"></i>Active
+                                            <div class="font-size-13"><i class="ri-checkbox-blank-circle-fill font-size-10 text-success align-middle me-2"></i>Active
                                             </div>
                                         </td>
                                         <td>
@@ -213,8 +204,7 @@
                                         </td>
                                         <td>Senior Web Designer</td>
                                         <td>
-                                            <div class="font-size-13"><i
-                                                    class="ri-checkbox-blank-circle-fill font-size-10 text-success align-middle me-2"></i>Active
+                                            <div class="font-size-13"><i class="ri-checkbox-blank-circle-fill font-size-10 text-success align-middle me-2"></i>Active
                                             </div>
                                         </td>
                                         <td>
@@ -232,8 +222,7 @@
                                         </td>
                                         <td>Web Designer</td>
                                         <td>
-                                            <div class="font-size-13"><i
-                                                    class="ri-checkbox-blank-circle-fill font-size-10 text-warning align-middle me-2"></i>Deactive
+                                            <div class="font-size-13"><i class="ri-checkbox-blank-circle-fill font-size-10 text-warning align-middle me-2"></i>Deactive
                                             </div>
                                         </td>
                                         <td>
@@ -251,8 +240,7 @@
                                         </td>
                                         <td>Senior Laravel Developer</td>
                                         <td>
-                                            <div class="font-size-13"><i
-                                                    class="ri-checkbox-blank-circle-fill font-size-10 text-success align-middle me-2"></i>Active
+                                            <div class="font-size-13"><i class="ri-checkbox-blank-circle-fill font-size-10 text-success align-middle me-2"></i>Active
                                             </div>
                                         </td>
                                         <td>
